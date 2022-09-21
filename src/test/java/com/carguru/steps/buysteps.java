@@ -61,9 +61,9 @@ public class buysteps {
     }
 
     @Then("^I should see the make \"([^\"]*)\" in results\\.$")
-    public void iShouldSeeTheMakeInResults(String arg0)
+    public void iShouldSeeTheMakeInResults(String text)
     {
-
+        Assert.assertTrue(new CarSearch().resultverify().contains(text));
     }
 
     @Then("^I navigate to \"([^\"]*)\"$")

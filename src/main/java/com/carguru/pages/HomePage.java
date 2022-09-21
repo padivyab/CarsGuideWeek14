@@ -25,3 +25,20 @@ public class HomePage extends Utility {
         mouseHoverToElement(hovertab);
     }
 }
+/*@CacheLookup //AssertDealers
+    @FindBy(className = "dealerListing--name")
+    List<WebElement> dealersname;
+
+    public void verifyDealersNamesDisplayed(boolean list) {
+        for (WebElement name : dealersname) {
+            if (list = name.isDisplayed()) {
+                break;
+            } else {
+                System.out.println("Dealers name not in the list");
+            }
+        }
+    }
+    @And("^I should see the dealers name \"([^\"]*)\" are displayed on page$")
+    public void iShouldSeeTheDealersNameAreDisplayedOnPage(Boolean dealr) {
+        new FindDealersPage().verifyDealersNamesDisplayed(dealr);
+    }*/

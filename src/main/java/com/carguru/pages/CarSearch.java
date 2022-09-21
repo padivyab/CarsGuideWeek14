@@ -43,6 +43,14 @@ public class CarSearch extends Utility {
     @CacheLookup
     @FindBy(xpath = "//input[@id='search-submit']")
     WebElement clickfind;
+
+    @CacheLookup
+    @FindBy(xpath = "//h1[@class='listing-search-title']")
+    WebElement result;
+
+    public String resultverify() {
+        return getTextFromElement(result);
+    }
     public void ClickOnSearch()
     {
         clickOnElement(search);

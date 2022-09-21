@@ -144,7 +144,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 23107963100,
+  "duration": 28691051600,
   "status": "passed"
 });
 formatter.scenario({
@@ -224,21 +224,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 297349400,
+  "duration": 351067500,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 373088900,
+  "duration": 449483800,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickSearchCarLink()"
 });
 formatter.result({
-  "duration": 3951692100,
+  "duration": 7985495900,
   "status": "passed"
 });
 formatter.match({
@@ -251,7 +251,7 @@ formatter.match({
   "location": "buysteps.iNavigateTo(String)"
 });
 formatter.result({
-  "duration": 967509500,
+  "duration": 154156300,
   "status": "passed"
 });
 formatter.match({
@@ -264,7 +264,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1359897900,
+  "duration": 1574742100,
   "status": "passed"
 });
 formatter.match({
@@ -277,7 +277,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 1208086700,
+  "duration": 1435350400,
   "status": "passed"
 });
 formatter.match({
@@ -290,7 +290,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1111053600,
+  "duration": 1368457700,
   "status": "passed"
 });
 formatter.match({
@@ -303,14 +303,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1136054500,
+  "duration": 1535248900,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 4266595700,
+  "duration": 38197256400,
   "status": "passed"
 });
 formatter.match({
@@ -323,15 +323,15 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 117900,
+  "duration": 153849600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 179700,
+  "duration": 980600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7816887800,
+  "duration": 31778470500,
   "status": "passed"
 });
 formatter.scenario({
@@ -411,21 +411,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 31600,
+  "duration": 53600,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 967759200,
+  "duration": 412158000,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickSearchCarLink()"
 });
 formatter.result({
-  "duration": 3188507000,
+  "duration": 51177559600,
   "status": "passed"
 });
 formatter.match({
@@ -438,7 +438,7 @@ formatter.match({
   "location": "buysteps.iNavigateTo(String)"
 });
 formatter.result({
-  "duration": 562251500,
+  "duration": 125230000,
   "status": "passed"
 });
 formatter.match({
@@ -451,7 +451,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1186848200,
+  "duration": 1512181000,
   "status": "passed"
 });
 formatter.match({
@@ -464,7 +464,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 1124627100,
+  "duration": 1754462400,
   "status": "passed"
 });
 formatter.match({
@@ -477,7 +477,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1185836900,
+  "duration": 1459432700,
   "status": "passed"
 });
 formatter.match({
@@ -490,14 +490,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1134614300,
+  "duration": 1446057800,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 4301361400,
+  "duration": 55518736000,
   "status": "passed"
 });
 formatter.match({
@@ -510,15 +510,15 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 42400,
+  "duration": 156677800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 60100,
+  "duration": 58000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 11148639300,
+  "duration": 50041808800,
   "status": "passed"
 });
 formatter.scenario({
@@ -598,21 +598,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 41300,
+  "duration": 40000,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 987302600,
+  "duration": 678160100,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickSearchCarLink()"
 });
 formatter.result({
-  "duration": 8516147400,
+  "duration": 26464679100,
   "status": "passed"
 });
 formatter.match({
@@ -625,7 +625,7 @@ formatter.match({
   "location": "buysteps.iNavigateTo(String)"
 });
 formatter.result({
-  "duration": 869288200,
+  "duration": 3182727200,
   "status": "passed"
 });
 formatter.match({
@@ -638,7 +638,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1279583300,
+  "duration": 1615943300,
   "status": "passed"
 });
 formatter.match({
@@ -651,7 +651,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 1130907600,
+  "duration": 1371068800,
   "status": "passed"
 });
 formatter.match({
@@ -664,7 +664,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1122546800,
+  "duration": 1466822200,
   "status": "passed"
 });
 formatter.match({
@@ -677,14 +677,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1207163400,
+  "duration": 1464751100,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 6498273800,
+  "duration": 59829108300,
   "status": "passed"
 });
 formatter.match({
@@ -697,15 +697,15 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 78800,
+  "duration": 184168800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 30500,
+  "duration": 28900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 13071953000,
+  "duration": 42046124700,
   "status": "passed"
 });
 formatter.scenario({
@@ -785,21 +785,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 36800,
+  "duration": 78300,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 338146200,
+  "duration": 3946139200,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickSearchCarLink()"
 });
 formatter.result({
-  "duration": 9809665000,
+  "duration": 36204998300,
   "status": "passed"
 });
 formatter.match({
@@ -812,7 +812,7 @@ formatter.match({
   "location": "buysteps.iNavigateTo(String)"
 });
 formatter.result({
-  "duration": 552836200,
+  "duration": 5521520700,
   "status": "passed"
 });
 formatter.match({
@@ -825,7 +825,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1172801500,
+  "duration": 3863882900,
   "status": "passed"
 });
 formatter.match({
@@ -838,7 +838,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 1142251400,
+  "duration": 1718723500,
   "status": "passed"
 });
 formatter.match({
@@ -851,7 +851,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1183856200,
+  "duration": 1408973600,
   "status": "passed"
 });
 formatter.match({
@@ -864,14 +864,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1167589400,
+  "duration": 1328381900,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 6211168800,
+  "duration": 25390406300,
   "status": "passed"
 });
 formatter.match({
@@ -884,15 +884,15 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 135200,
+  "duration": 156775700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 46500,
+  "duration": 58800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 14194626700,
+  "duration": 31697561700,
   "status": "passed"
 });
 formatter.scenario({
@@ -972,21 +972,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 65300,
+  "duration": 25500,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 277503300,
+  "duration": 1585121600,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickSearchCarLink()"
 });
 formatter.result({
-  "duration": 3650557100,
+  "duration": 56230469100,
   "status": "passed"
 });
 formatter.match({
@@ -999,7 +999,7 @@ formatter.match({
   "location": "buysteps.iNavigateTo(String)"
 });
 formatter.result({
-  "duration": 47446200,
+  "duration": 198373500,
   "status": "passed"
 });
 formatter.match({
@@ -1012,7 +1012,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1140164900,
+  "duration": 1743911100,
   "status": "passed"
 });
 formatter.match({
@@ -1025,7 +1025,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 5722835500,
+  "duration": 1634094000,
   "status": "passed"
 });
 formatter.match({
@@ -1038,7 +1038,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1129447400,
+  "duration": 1581739000,
   "status": "passed"
 });
 formatter.match({
@@ -1051,14 +1051,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1198304500,
+  "duration": 1533510400,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 5985325200,
+  "duration": 82223300700,
   "status": "passed"
 });
 formatter.match({
@@ -1071,15 +1071,15 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 50600,
+  "duration": 406066400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 28000,
+  "duration": 53100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 17566126000,
+  "duration": 64561982200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1159,21 +1159,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 24700,
+  "duration": 115500,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 201330600,
+  "duration": 526481700,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickSearchCarLink()"
 });
 formatter.result({
-  "duration": 5591039100,
+  "duration": 84240815700,
   "status": "passed"
 });
 formatter.match({
@@ -1186,7 +1186,7 @@ formatter.match({
   "location": "buysteps.iNavigateTo(String)"
 });
 formatter.result({
-  "duration": 275757200,
+  "duration": 647688900,
   "status": "passed"
 });
 formatter.match({
@@ -1199,7 +1199,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1720510700,
+  "duration": 3590335500,
   "status": "passed"
 });
 formatter.match({
@@ -1212,7 +1212,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 1187898400,
+  "duration": 2491328200,
   "status": "passed"
 });
 formatter.match({
@@ -1225,7 +1225,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1176908500,
+  "duration": 2082653800,
   "status": "passed"
 });
 formatter.match({
@@ -1238,14 +1238,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1168136600,
+  "duration": 2777279200,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 6402581200,
+  "duration": 82852255200,
   "status": "passed"
 });
 formatter.match({
@@ -1258,11 +1258,11 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 62100,
+  "duration": 150392300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 57300,
+  "duration": 28100,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1403,7 +1403,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 14468861100,
+  "duration": 48422217800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1483,21 +1483,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 29800,
+  "duration": 48300,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 395102900,
+  "duration": 733403400,
   "status": "passed"
 });
 formatter.match({
   "location": "usedsteps.iClickUserClick()"
 });
 formatter.result({
-  "duration": 4984747600,
+  "duration": 53607919000,
   "status": "passed"
 });
 formatter.match({
@@ -1510,7 +1510,7 @@ formatter.match({
   "location": "usedsteps.iNavigateToA(String)"
 });
 formatter.result({
-  "duration": 860435200,
+  "duration": 319423000,
   "status": "passed"
 });
 formatter.match({
@@ -1523,7 +1523,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1222506400,
+  "duration": 1644710900,
   "status": "passed"
 });
 formatter.match({
@@ -1536,7 +1536,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 5609084500,
+  "duration": 1660050100,
   "status": "passed"
 });
 formatter.match({
@@ -1549,7 +1549,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1178439100,
+  "duration": 1806882400,
   "status": "passed"
 });
 formatter.match({
@@ -1562,14 +1562,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1151785500,
+  "duration": 2116830600,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 7741918300,
+  "duration": 70152022200,
   "status": "passed"
 });
 formatter.match({
@@ -1582,15 +1582,15 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 55400,
+  "duration": 765083700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 19300,
+  "duration": 24400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 16135857300,
+  "duration": 79797576900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1670,21 +1670,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 29200,
+  "duration": 31100,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 590659400,
+  "duration": 16739410200,
   "status": "passed"
 });
 formatter.match({
   "location": "usedsteps.iClickUserClick()"
 });
 formatter.result({
-  "duration": 5624612400,
+  "duration": 33180793900,
   "status": "passed"
 });
 formatter.match({
@@ -1697,7 +1697,7 @@ formatter.match({
   "location": "usedsteps.iNavigateToA(String)"
 });
 formatter.result({
-  "duration": 183911000,
+  "duration": 2030508100,
   "status": "passed"
 });
 formatter.match({
@@ -1710,7 +1710,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1462184800,
+  "duration": 1705490300,
   "status": "passed"
 });
 formatter.match({
@@ -1723,7 +1723,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 1157992800,
+  "duration": 1477500200,
   "status": "passed"
 });
 formatter.match({
@@ -1736,7 +1736,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1180091000,
+  "duration": 2217000800,
   "status": "passed"
 });
 formatter.match({
@@ -1749,14 +1749,14 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1191738300,
+  "duration": 4671602700,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 8764358800,
+  "duration": 14710596500,
   "status": "passed"
 });
 formatter.match({
@@ -1769,15 +1769,15 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 70400,
+  "duration": 1316658400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 31200,
+  "duration": 47400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 18877291900,
+  "duration": 23330792500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1857,21 +1857,21 @@ formatter.match({
   "location": "buysteps.iAmOnHomepage()"
 });
 formatter.result({
-  "duration": 45700,
+  "duration": 25300,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iMouseHoverOnBuySellTab()"
 });
 formatter.result({
-  "duration": 601827700,
+  "duration": 476320500,
   "status": "passed"
 });
 formatter.match({
   "location": "usedsteps.iClickUserClick()"
 });
 formatter.result({
-  "duration": 579869600,
+  "duration": 41712678200,
   "status": "passed"
 });
 formatter.match({
@@ -1884,7 +1884,7 @@ formatter.match({
   "location": "usedsteps.iNavigateToA(String)"
 });
 formatter.result({
-  "duration": 10386681400,
+  "duration": 119090500,
   "status": "passed"
 });
 formatter.match({
@@ -1897,7 +1897,7 @@ formatter.match({
   "location": "buysteps.iSelectMake(String)"
 });
 formatter.result({
-  "duration": 1500483600,
+  "duration": 1950389200,
   "status": "passed"
 });
 formatter.match({
@@ -1910,7 +1910,7 @@ formatter.match({
   "location": "buysteps.iSelectModel(String)"
 });
 formatter.result({
-  "duration": 1490642500,
+  "duration": 1302634900,
   "status": "passed"
 });
 formatter.match({
@@ -1923,7 +1923,7 @@ formatter.match({
   "location": "buysteps.iSelectLocation(String)"
 });
 formatter.result({
-  "duration": 1195295500,
+  "duration": 1281424000,
   "status": "passed"
 });
 formatter.match({
@@ -1936,15 +1936,16 @@ formatter.match({
   "location": "buysteps.iSelectPrice(String)"
 });
 formatter.result({
-  "duration": 1184326500,
+  "duration": 1345198500,
   "status": "passed"
 });
 formatter.match({
   "location": "buysteps.iClickOnFindMyNextCarTab()"
 });
 formatter.result({
-  "duration": 14062959000,
-  "status": "passed"
+  "duration": 28713154300,
+  "error_message": "org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status\nfrom disconnected: Unable to receive message from renderer\n  (Session info: chrome\u003d105.0.5195.126)\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027LAPTOP-ELH5PJN7\u0027, ip: \u0027192.168.0.194\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [22aa0ad75968854b77a9a7992ad3d406, clickElement {id\u003ddadcd09a-818e-4b6b-a4c8-e71a4c62ad0b}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.126, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\DIVYAP~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:49941}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49941/devtoo..., se:cdpVersion: 105.0.5195.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (22aa0ad75968854b77a9a7992ad3d406)] -\u003e xpath: //input[@id\u003d\u0027search-submit\u0027]]\nSession ID: 22aa0ad75968854b77a9a7992ad3d406\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)\r\n\tat sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)\r\n\tat com.sun.proxy.$Proxy23.click(Unknown Source)\r\n\tat com.carguru.utilities.Utility.clickOnElement(Utility.java:53)\r\n\tat com.carguru.pages.CarSearch.ClickFind(CarSearch.java:80)\r\n\tat com.carguru.steps.buysteps.iClickOnFindMyNextCarTab(buysteps.java:59)\r\n\tat ✽.And I click on find my next car tab(src/test/java/resources/featurefile/buy.feature:36)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -1956,1402 +1957,10 @@ formatter.match({
   "location": "buysteps.iShouldSeeTheMakeInResults(String)"
 });
 formatter.result({
-  "duration": 63900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 31000,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 16703851200,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 43,
-  "name": "Search the used car with model",
-  "description": "",
-  "id": "search-functionality;search-the-used-car-with-model;;5",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 28,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 29,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 30,
-  "name": "I click user click",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 31,
-  "name": "I navigate to a \"Used Cars For Sale\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 32,
-  "name": "I select make \"Honda\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 33,
-  "name": "I select model \"Accord\"",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 34,
-  "name": "I select location \"NSW - Sydney\"",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 35,
-  "name": "I select price \"$80,000\"",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 36,
-  "name": "I click on find my next car tab",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 37,
-  "name": "I should see the make \"Honda\" in results.",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 33900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 2222477900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "usedsteps.iClickUserClick()"
-});
-formatter.result({
-  "duration": 6310519100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Used Cars For Sale",
-      "offset": 17
-    }
-  ],
-  "location": "usedsteps.iNavigateToA(String)"
-});
-formatter.result({
-  "duration": 1218593000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Honda",
-      "offset": 15
-    }
-  ],
-  "location": "buysteps.iSelectMake(String)"
-});
-formatter.result({
-  "duration": 2012317000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Accord",
-      "offset": 16
-    }
-  ],
-  "location": "buysteps.iSelectModel(String)"
-});
-formatter.result({
-  "duration": 1301775900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "NSW - Sydney",
-      "offset": 19
-    }
-  ],
-  "location": "buysteps.iSelectLocation(String)"
-});
-formatter.result({
-  "duration": 1254302800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "$80,000",
-      "offset": 16
-    }
-  ],
-  "location": "buysteps.iSelectPrice(String)"
-});
-formatter.result({
-  "duration": 1231644200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iClickOnFindMyNextCarTab()"
-});
-formatter.result({
-  "duration": 19620314000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Honda",
-      "offset": 23
-    }
-  ],
-  "location": "buysteps.iShouldSeeTheMakeInResults(String)"
-});
-formatter.result({
-  "duration": 76500,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 51100,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 20384517200,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 44,
-  "name": "Search the used car with model",
-  "description": "",
-  "id": "search-functionality;search-the-used-car-with-model;;6",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 28,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 29,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 30,
-  "name": "I click user click",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 31,
-  "name": "I navigate to a \"Used Cars For Sale\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 32,
-  "name": "I select make \"Audi\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 33,
-  "name": "I select model \"Q5\"",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 34,
-  "name": "I select location \"NSW - Sydney\"",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 35,
-  "name": "I select price \"$150,000\"",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 36,
-  "name": "I click on find my next car tab",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 37,
-  "name": "I should see the make \"Audi\" in results.",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 76100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 480681100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "usedsteps.iClickUserClick()"
-});
-formatter.result({
-  "duration": 6513540600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Used Cars For Sale",
-      "offset": 17
-    }
-  ],
-  "location": "usedsteps.iNavigateToA(String)"
-});
-formatter.result({
-  "duration": 1781996800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Audi",
-      "offset": 15
-    }
-  ],
-  "location": "buysteps.iSelectMake(String)"
-});
-formatter.result({
-  "duration": 1471155800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Q5",
-      "offset": 16
-    }
-  ],
-  "location": "buysteps.iSelectModel(String)"
-});
-formatter.result({
-  "duration": 1233552700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "NSW - Sydney",
-      "offset": 19
-    }
-  ],
-  "location": "buysteps.iSelectLocation(String)"
-});
-formatter.result({
-  "duration": 1208275700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "$150,000",
-      "offset": 16
-    }
-  ],
-  "location": "buysteps.iSelectPrice(String)"
-});
-formatter.result({
-  "duration": 1284076700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iClickOnFindMyNextCarTab()"
-});
-formatter.result({
-  "duration": 20880647900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Audi",
-      "offset": 23
-    }
-  ],
-  "location": "buysteps.iShouldSeeTheMakeInResults(String)"
-});
-formatter.result({
-  "duration": 65000,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 45900,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 25851392500,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 45,
-  "name": "Search the used car with model",
-  "description": "",
-  "id": "search-functionality;search-the-used-car-with-model;;7",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 28,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 29,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 30,
-  "name": "I click user click",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 31,
-  "name": "I navigate to a \"Used Cars For Sale\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 32,
-  "name": "I select make \"Kia\"",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 33,
-  "name": "I select model \"Niro\"",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 34,
-  "name": "I select location \"NSW - Sydney\"",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 35,
-  "name": "I select price \"$80,000\"",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 36,
-  "name": "I click on find my next car tab",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 37,
-  "name": "I should see the make \"Kia\" in results.",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 171700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 927043500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "usedsteps.iClickUserClick()"
-});
-formatter.result({
-  "duration": 9561439500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Used Cars For Sale",
-      "offset": 17
-    }
-  ],
-  "location": "usedsteps.iNavigateToA(String)"
-});
-formatter.result({
-  "duration": 134162900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Kia",
-      "offset": 15
-    }
-  ],
-  "location": "buysteps.iSelectMake(String)"
-});
-formatter.result({
-  "duration": 1524887000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Niro",
-      "offset": 16
-    }
-  ],
-  "location": "buysteps.iSelectModel(String)"
-});
-formatter.result({
-  "duration": 1350903200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "NSW - Sydney",
-      "offset": 19
-    }
-  ],
-  "location": "buysteps.iSelectLocation(String)"
-});
-formatter.result({
-  "duration": 1594957200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "$80,000",
-      "offset": 16
-    }
-  ],
-  "location": "buysteps.iSelectPrice(String)"
-});
-formatter.result({
-  "duration": 1708486400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iClickOnFindMyNextCarTab()"
-});
-formatter.result({
-  "duration": 12126650400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Kia",
-      "offset": 23
-    }
-  ],
-  "location": "buysteps.iShouldSeeTheMakeInResults(String)"
-});
-formatter.result({
-  "duration": 52200,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 28900,
-  "status": "passed"
-});
-formatter.uri("src/test/java/resources/featurefile/finddealers.feature");
-formatter.feature({
-  "line": 1,
-  "name": "Find the dealers and verify Functionality",
-  "description": "\r\nAs user I want to find dealers list",
-  "id": "find-the-dealers-and-verify-functionality",
-  "keyword": "Feature"
-});
-formatter.scenarioOutline({
-  "line": 5,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"\u003cKeywords\u003e\" are display on page",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.examples({
-  "line": 13,
-  "name": "",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;",
-  "rows": [
-    {
-      "cells": [
-        "Keywords"
-      ],
-      "line": 14,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;1"
-    },
-    {
-      "cells": [
-        "3 Point Motors Epping"
-      ],
-      "line": 15,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;2"
-    },
-    {
-      "cells": [
-        "4WD Specialist Group"
-      ],
-      "line": 16,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;3"
-    },
-    {
-      "cells": [
-        "5 Star Auto"
-      ],
-      "line": 17,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;4"
-    },
-    {
-      "cells": [
-        "A \u0026 M Car Sales Pty Ltd"
-      ],
-      "line": 18,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;5"
-    },
-    {
-      "cells": [
-        "A1 MOTORS COMPANY"
-      ],
-      "line": 19,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;6"
-    },
-    {
-      "cells": [
-        "ANDREA MOTORI SERVICE"
-      ],
-      "line": 20,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;7"
-    },
-    {
-      "cells": [
-        "Oxford Motors"
-      ],
-      "line": 21,
-      "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;8"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.before({
-  "duration": 79646112100,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 15,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"3 Point Motors Epping\" are display on page",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 74600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 1084404000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickFindADealer()"
-});
-formatter.result({
-  "duration": 4001316500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Find a Car Dealership Near You",
-      "offset": 20
-    }
-  ],
-  "location": "finddealersteps.iNavigateToATo(String)"
-});
-formatter.result({
-  "duration": 57674500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "3 Point Motors Epping",
-      "offset": 31
-    }
-  ],
-  "location": "finddealersteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
-});
-formatter.result({
-  "duration": 270955600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickOnFindButton()"
-});
-formatter.result({
-  "duration": 3747444200,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 39500,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 16026658500,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 16,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"4WD Specialist Group\" are display on page",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 24100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 750807900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickFindADealer()"
-});
-formatter.result({
-  "duration": 6067825500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Find a Car Dealership Near You",
-      "offset": 20
-    }
-  ],
-  "location": "finddealersteps.iNavigateToATo(String)"
-});
-formatter.result({
-  "duration": 69947500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "4WD Specialist Group",
-      "offset": 31
-    }
-  ],
-  "location": "finddealersteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
-});
-formatter.result({
-  "duration": 357810000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickOnFindButton()"
-});
-formatter.result({
-  "duration": 3946825600,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 24200,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 12790621800,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 17,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"5 Star Auto\" are display on page",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 25700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 961332700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickFindADealer()"
-});
-formatter.result({
-  "duration": 4562016800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Find a Car Dealership Near You",
-      "offset": 20
-    }
-  ],
-  "location": "finddealersteps.iNavigateToATo(String)"
-});
-formatter.result({
-  "duration": 75155000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "5 Star Auto",
-      "offset": 31
-    }
-  ],
-  "location": "finddealersteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
-});
-formatter.result({
-  "duration": 217180000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickOnFindButton()"
-});
-formatter.result({
-  "duration": 3779742600,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 48600,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 12239603200,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 18,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;5",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"A \u0026 M Car Sales Pty Ltd\" are display on page",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 533200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 186662300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickFindADealer()"
-});
-formatter.result({
-  "duration": 4099398600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Find a Car Dealership Near You",
-      "offset": 20
-    }
-  ],
-  "location": "finddealersteps.iNavigateToATo(String)"
-});
-formatter.result({
-  "duration": 52548200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "A \u0026 M Car Sales Pty Ltd",
-      "offset": 31
-    }
-  ],
-  "location": "finddealersteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
-});
-formatter.result({
-  "duration": 265180500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickOnFindButton()"
-});
-formatter.result({
-  "duration": 4831862900,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 1134100,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 16157905400,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 19,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;6",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"A1 MOTORS COMPANY\" are display on page",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 52800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 1079584900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickFindADealer()"
-});
-formatter.result({
-  "duration": 20274343600,
-  "error_message": "org.openqa.selenium.ElementNotInteractableException: element not interactable\n  (Session info: chrome\u003d105.0.5195.126)\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027LAPTOP-ELH5PJN7\u0027, ip: \u0027192.168.0.194\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [1caae801548627cd80965a6c39364ff3, clickElement {id\u003d4938f91f-8783-4fac-bbca-906bd4b82636}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.126, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\DIVYAP~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:55867}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55867/devtoo..., se:cdpVersion: 105.0.5195.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on WINDOWS (1caae801548627cd80965a6c39364ff3)] -\u003e xpath: //div[@class\u003d\u0027uhf-menu-wrapper\u0027]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/a[1]]\nSession ID: 1caae801548627cd80965a6c39364ff3\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)\r\n\tat sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)\r\n\tat com.sun.proxy.$Proxy23.click(Unknown Source)\r\n\tat com.carguru.utilities.Utility.clickOnElement(Utility.java:53)\r\n\tat com.carguru.pages.FindDealersSearch.ClickOnFindDealer(FindDealersSearch.java:40)\r\n\tat com.carguru.steps.finddealersteps.iClickFindADealer(finddealersteps.java:13)\r\n\tat ✽.And I click find a dealer(src/test/java/resources/featurefile/finddealers.feature:9)\r\n",
+  "duration": 12288132400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d105.0.5195.126)\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027LAPTOP-ELH5PJN7\u0027, ip: \u0027192.168.0.194\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [22aa0ad75968854b77a9a7992ad3d406, screenshot {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.126, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\DIVYAP~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:49941}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49941/devtoo..., se:cdpVersion: 105.0.5195.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 22aa0ad75968854b77a9a7992ad3d406\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:349)\r\n\tat com.carguru.utilities.Utility.getScreenshot(Utility.java:335)\r\n\tat com.carguru.Hooks.tearDown(Hooks.java:26)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:127)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:26)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:309)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:160)\r\n\tat com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)\r\n\tat com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)\r\n\tat com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)\r\n\tat com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)\r\n\tat com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)\r\n\tat com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)\r\n",
   "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Find a Car Dealership Near You",
-      "offset": 20
-    }
-  ],
-  "location": "finddealersteps.iNavigateToATo(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "A1 MOTORS COMPANY",
-      "offset": 31
-    }
-  ],
-  "location": "finddealersteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "finddealersteps.iClickOnFindButton()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.after({
-  "duration": 1820988900,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 9218853700,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 20,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;7",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"ANDREA MOTORI SERVICE\" are display on page",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 24600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 710928400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickFindADealer()"
-});
-formatter.result({
-  "duration": 3596657100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Find a Car Dealership Near You",
-      "offset": 20
-    }
-  ],
-  "location": "finddealersteps.iNavigateToATo(String)"
-});
-formatter.result({
-  "duration": 495798000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "ANDREA MOTORI SERVICE",
-      "offset": 31
-    }
-  ],
-  "location": "finddealersteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
-});
-formatter.result({
-  "duration": 328408800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickOnFindButton()"
-});
-formatter.result({
-  "duration": 2470418800,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 18500,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 9005437900,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 21,
-  "name": "Find the dealers and verify the dealers are in list",
-  "description": "",
-  "id": "find-the-dealers-and-verify-functionality;find-the-dealers-and-verify-the-dealers-are-in-list;;8",
-  "type": "scenario",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 7,
-  "name": "I am on homepage",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 8,
-  "name": "I mouse hover on buy+sell tab",
-  "keyword": "When "
-});
-formatter.step({
-  "line": 9,
-  "name": "I click find a dealer",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 10,
-  "name": "I navigate to a to \"Find a Car Dealership Near You\"",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "I should see the dealer names \"Oxford Motors\" are display on page",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "And "
-});
-formatter.step({
-  "line": 12,
-  "name": "I click on find button",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "buysteps.iAmOnHomepage()"
-});
-formatter.result({
-  "duration": 26700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "buysteps.iMouseHoverOnBuySellTab()"
-});
-formatter.result({
-  "duration": 821394700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickFindADealer()"
-});
-formatter.result({
-  "duration": 4733612200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Find a Car Dealership Near You",
-      "offset": 20
-    }
-  ],
-  "location": "finddealersteps.iNavigateToATo(String)"
-});
-formatter.result({
-  "duration": 50680000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Oxford Motors",
-      "offset": 31
-    }
-  ],
-  "location": "finddealersteps.iShouldSeeTheDealerNamesAreDisplayOnPage(String)"
-});
-formatter.result({
-  "duration": 207685500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "finddealersteps.iClickOnFindButton()"
-});
-formatter.result({
-  "duration": 3525414200,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 16200,
-  "status": "passed"
-});
 });
